@@ -1,0 +1,11 @@
+Qty,Reference Designator,Description,Manufacturer,Part No.,Digikey Part No.,Link
+2,C2 C4,"Capacitor, Ceramic, 220pF, 100V, 5%, NP0, 1206","SAMSUNG ELECTRO-MECHANICS AMERICA, INC",CL31C221JCCNNNC,1276-2821-1-ND,http://digikey.com/scripts/DkSearch/dksus.dll?Detail&name=1276-2821-1-ND
+1,C3,"Capacitor, Ceramic, 390pF, 100V, 5%, NP0, 1206",KEMET,C1206C391J1GACTU,399-9353-1-ND,http://digikey.com/scripts/DkSearch/dksus.dll?Detail&name=399-9353-1-ND
+1,C1,"Capacitor, Ceramic, 4700pF, 100V, 5%, NP0, 1206",TDK CORPORATION,C3216C0G2A472J085AA,445-2329-1-ND,http://digikey.com/scripts/DkSearch/dksus.dll?Detail&name=445-2329-1-ND
+1,IC1,"IC, Opamp, Dual, 10MHz, R-R, 8-SOIC",MICROCHIP TECHNOLOGY,MCP6022T-I/SN,MCP6022T-I/SNCT-ND,http://digikey.com/scripts/DkSearch/dksus.dll?Detail&name=MCP6022T-I/SNCT-ND
+1,P1,"Male Headers Pins, 0.1"" spacing, 4x1",WURTH ELECTRONICS INC,61300411121,732-5317-ND,http://digikey.com/scripts/DkSearch/dksus.dll?Detail&name=732-5317-ND
+1,P2,"Male Headers Pins, 0.1"" spacing, 3x1",WURTH ELECTRONICS INC,61300311121,732-5316-ND,http://digikey.com/scripts/DkSearch/dksus.dll?Detail&name=732-5316-ND
+1,R1,"Resistor, Metal Film, 1.78k, 1%, 1/4W, 1206",STACKPOLE ELECTRONICS INC,RMCF1206FT1K78,RMCF1206FT1K78CT-ND,http://digikey.com/scripts/DkSearch/dksus.dll?Detail&name=RMCF1206FT1K78CT-ND
+1,R2,"Resistor, Metal Film, 4.02k, 1%, 1/4W, 1206",STACKPOLE ELECTRONICS INC,RMCF1206FT4K02,RMCF1206FT4K02CT-ND,http://digikey.com/scripts/DkSearch/dksus.dll?Detail&name=RMCF1206FT4K02CT-ND
+1,R3,"Resistor, Metal Film, 9.09k, 1%, 1/4W, 1206",STACKPOLE ELECTRONICS INC,RMCF1206FT9K09,RMCF1206FT9K09CT-ND,http://digikey.com/scripts/DkSearch/dksus.dll?Detail&name=RMCF1206FT9K09CT-ND
+1,R4,"Resistor, Metal Film, 20k, 1%, 1/4W, 1206",STACKPOLE ELECTRONICS INC,RMCF1206FT20K0,RMCF1206FT20K0TR-ND,http://digikey.com/scripts/DkSearch/dksus.dll?Detail&name=RMCF1206FT20K0TR-ND
