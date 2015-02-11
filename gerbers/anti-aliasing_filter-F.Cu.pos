@@ -1,0 +1,15 @@
+### Module positions - created on 11/02/2015 11:45:31 AM ###
+### Printed by Pcbnew version pcbnew (2013-07-07 BZR 4022)-stable
+## Unit = inches, Angle = deg.
+## Side : F.Cu
+# Ref    Val                  Package         PosX       PosY        Rot     Side
+C1       0.0047uF         SM1206              1.0800    -1.3800       0.0    F.Cu
+C2       220pF            SM1206              1.0800    -1.0800     180.0    F.Cu
+C3       390pF            SM1206              1.3300    -0.7300       0.0    F.Cu
+C4       220pF            SM1206              1.0800    -0.8300     180.0    F.Cu
+IC1      MCP6022          SO8N                1.3300    -1.2300       0.0    F.Cu
+R1       1.78k            SM1206              1.0800    -1.2800       0.0    F.Cu
+R2       4.02k            SM1206              1.0800    -1.1800       0.0    F.Cu
+R3       9.09k            SM1206              1.3300    -0.8300     180.0    F.Cu
+R4       20k              SM1206              1.0800    -0.7300     180.0    F.Cu
+## End
